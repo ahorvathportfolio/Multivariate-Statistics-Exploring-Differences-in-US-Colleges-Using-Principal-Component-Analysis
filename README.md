@@ -14,5 +14,5 @@ Final Notes:
 - When arriving at Step 3 (Confirmatory Analysis) we will need the help of a 
   few functions which our instructor for the course, Dr. Ellingson, was kind enough to 
   provide us. These files include mardiatest.txt, EqualCovtest.txt, and TwoSampleT2test.txt.
-  Make sure to turn them into MATLAB files and that they are in the same folder as the 
-  Confirmatory Analysis Code in order to run without any issues.
+  Make sure they are in the same folder as the Confirmatory Analysis Code in order to run without
+  any issues.
