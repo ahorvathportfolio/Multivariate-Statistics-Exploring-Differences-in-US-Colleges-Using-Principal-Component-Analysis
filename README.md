@@ -11,8 +11,6 @@ an Exploratory + Confirmatory Analysis which used Principal Component Analysis. 
 in the Report and I hope you all find it an interesting read!
 
 Final Notes: 
-- As I know not everyone has access to MATLAB, I have provided almost all of the code 
-  as txt files in order to allow any interested individuals to be able to view this project.
 - When arriving at Step 3 (Confirmatory Analysis) we will need the help of a 
   few functions which our instructor for the course, Dr. Ellingson, was kind enough to 
   provide us. These files include mardiatest.txt, EqualCovtest.txt, and TwoSampleT2test.txt.
